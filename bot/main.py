@@ -2,7 +2,6 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command, CommandObject
 from os import remove
 from qrcode import make as qr_make
-
 from asyncio import run as async_run
 
 
