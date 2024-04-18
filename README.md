@@ -1,2 +1,3 @@
 # qr_code_gen_bot
 
+![](https://cdn.discordapp.com/attachments/968157912843288606/1230362458003210250/IMG_20240418_104048_316.jpg?ex=66330b55&is=66209655&hm=9e2f7d56c752b3a420c9712d4212bfabca80a86fbba11a5f116ceceb62295ba9&) 
